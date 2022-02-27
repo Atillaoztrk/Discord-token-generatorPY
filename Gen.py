@@ -13,7 +13,7 @@ import json
 import random
 init(convert=True)
 folder=r"Data/Avatars"
-captchaApi = "anti-captcha.com" # 2captcha.com anti-captcha.com capmonster.cloud (use anti captcha, other services are patched)
+captchaApi = "2343408294c7160153fdea25958a4e4f" # 2captcha.com anti-captcha.com capmonster.cloud (use anti captcha, other services are patched)
 
 password = "Oxi$tinks"
 
